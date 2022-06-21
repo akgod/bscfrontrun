@@ -1,1 +1,3 @@
 # bscfrontrun
+bsc上薄冰抢跑机器人
+订阅bsc上pending池里的薄饼相关的swap交易，并分析相关价格影响，加gas抢先交易
